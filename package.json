@@ -1,0 +1,22 @@
+{
+  "name": "playwright-qa-demo",
+  "version": "1.0.0",
+  "description": "Демо-проект автоматизации тестирования: e-commerce сайт, Playwright (JS), Page Object, Allure, GitHub Actions",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksfalk/playwright-qa-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksfalk/playwright-qa-demo/issues"
+  },
+  "homepage": "https://github.com/ksfalk/playwright-qa-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
